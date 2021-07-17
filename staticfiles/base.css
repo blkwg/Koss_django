@@ -1,0 +1,17 @@
+.better_logo {
+    font-family: 'Yomigi', cursive;
+}
+
+.better_footer_button {
+    font-size: .6rem;
+}
+
+.better_footer {
+    text-align:center;
+    margin-top: 2rem;
+}
+
+.better_header {
+    text-align:center;
+    margin:2rem 0;
+}
